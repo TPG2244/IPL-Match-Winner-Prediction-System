@@ -125,7 +125,6 @@ streamlit run app.py
 <img width="1919" height="740" alt="Screenshot 2026-04-06 140440" src="https://github.com/user-attachments/assets/ec9fcc60-217f-4928-887c-18314ed5c92c" />
 <img width="1508" height="597" alt="Screenshot 2026-04-06 140455" src="https://github.com/user-attachments/assets/8a8a28f3-16fa-483d-950d-d436db0e223d" />
 <img width="1488" height="752" alt="Screenshot 2026-04-06 140509" src="https://github.com/user-attachments/assets/531ffd7a-8fc3-4c4b-9ef8-a095a613a074" />
-<img width="1488" height="752" alt="Screenshot 2026-04-06 140509" src="https://github.com/user-attachments/assets/5e223353-2075-41e5-a0cd-d9e31401a1dc" />
 
 ---
 
